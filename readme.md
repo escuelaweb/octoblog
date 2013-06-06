@@ -1,11 +1,10 @@
 Blog de la Escuela de Diseño Web
 ==================================
 
-<img src="images/logo_completo.png" alt="escuelaweb-logo" style="width: 300px; display: block;
-    margin-left: auto;
-    margin-right: auto;"/>
+Blog desarrollado bajo [Jekyll](http://jekyllrb.com) utilizando el bootstrap [Octagon](http://escuelaweb.github.io/octagon-css/)
 
-Blog desarrollado bajo [Jekyll](http://jekyllrb.com)
-<img src="images/logo-jekyll.png" alt="jekyll-logo" style="width: 300px; display: block;
-    margin-left: auto;
-    margin-right: auto;"/>
+##Colaboradores
+
+- Sergio Marin [highercomve](http://github.com/highercomve)
+- Gustavo Giménez [gusga](http://github.com/gusga)
+- Ramón Ciriaco [zamuro57](http://github.com/zamuro57)
