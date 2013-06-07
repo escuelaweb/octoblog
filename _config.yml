@@ -1,2 +1,29 @@
 name: OctoBlog
 pygments: true
+
+
+authors:
+  sergio:
+    display_name: Sergio Marín
+    title: Instructor
+    gravatar: 
+    #email: 
+    #web: 
+    twitter: highercomve
+    github: highercomve
+  gustavo:
+    display_name: Gustavo Giménez
+    title: Desarrollador
+    gravatar: 
+    #email: 
+    #web: 
+    twitter: gonzo_
+    github: gusga
+  blanca:
+    display_name: Blanca Pérez
+    title: Instructor
+    gravatar: 
+    #email: 
+    #web: 
+    twitter: onlyblank
+    github: onlyblank
