@@ -17,7 +17,7 @@ authors:
     gravatar: 
     #email: 
     #web: 
-    twitter: gonzo_
+    twitter: gonzo_p
     github: gusga
   blanca:
     display_name: Blanca Pérez
@@ -27,3 +27,21 @@ authors:
     #web: 
     twitter: onlyblank
     github: onlyblank
+  ciriaco:  
+    display_name: Ramón Ciriaco
+    title: Instructor
+    gravatar:
+    #email:
+    #web:
+    twitter: zamuro57
+    github: zamuro57
+  renier:
+    display_name: Renier Chico
+    title: Desarrollador
+    gravatar:
+    #email:
+    #web:
+    twitter: racs182
+    github: racs182
+
+
